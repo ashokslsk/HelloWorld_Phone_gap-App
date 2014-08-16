@@ -1,0 +1,35 @@
+body{
+	background: #ccc;
+	font-family: sans-serif;
+}
+
+.wrap{
+    width: 600px;
+	margin: auto;
+}
+blockquote{
+border: 2px solid white;
+text-align: center;
+margin-left: 0;
+}
+
+li{
+	display: inline;
+	text-decoration: none;
+	padding-right: 20px; 
+}
+
+ul a {
+	text-decoration: none;
+	font-family: sans-serif;
+}
+
+ul a:hover {
+	text-decoration: underline;
+	font-size: 30px;
+}
+
+textarea{
+	width: 200px;
+	height: 200px;
+}
